@@ -14,11 +14,11 @@ Console.WriteLine(str1[14]);
 
 // TODO: Iterate over a string like any other sequence of values
 foreach (Char ch in str1) {
-Console.Write(ch);
-if (ch == 'b') {
-Console.WriteLine();
-break;
-}
+    Console.Write(ch);
+    if (ch == 'b') {
+        Console.WriteLine();
+    break;
+        }
 }
 
 // TODO: String Concatenation         

@@ -12,3 +12,4 @@ C:\Users\Hp\Downloads\Start\Start\Strings\Interpolation\obj\Debug\net6.0\refint\
 C:\Users\Hp\Downloads\Start\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.pdb
 C:\Users\Hp\Downloads\Start\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.genruntimeconfig.cache
 C:\Users\Hp\Downloads\Start\Start\Strings\Interpolation\obj\Debug\net6.0\ref\Interpolation.dll
+C:\Users\Hp\Downloads\Start\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.sourcelink.json
